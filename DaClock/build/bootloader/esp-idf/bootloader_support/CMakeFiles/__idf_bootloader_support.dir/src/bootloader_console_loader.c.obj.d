@@ -1,0 +1,24 @@
+esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_console_loader.c.obj: \
+ /home/charkbyte/esp-idf/components/bootloader_support/src/bootloader_console_loader.c \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/stdint.h \
+ /home/charkbyte/esp-idf/components/esp_libc/platform_include/sys/cdefs.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/sys/cdefs.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/sys/config.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/machine/ieeefp.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/sys/features.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/picolibc.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/machine/_default_types.h \
+ /home/charkbyte/EmbeddedProjects/DaClock/build/bootloader/config/sdkconfig.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/lib/gcc/xtensa-esp-elf/16.1.0/include/stddef.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/sys/_stdint.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/sys/_intsup.h \
+ /home/charkbyte/esp-idf/components/bootloader_support/private_include/bootloader_console.h \
+ /home/charkbyte/esp-idf/components/esp_rom/include/esp_rom_serial_output.h \
+ /home/charkbyte/esp-idf/components/esp_rom/include/esp_rom_sys.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/lib/gcc/xtensa-esp-elf/16.1.0/include/stdbool.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/inttypes.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/sys/_locale.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/lib/gcc/xtensa-esp-elf/16.1.0/include/stdarg.h \
+ /home/charkbyte/esp-idf/components/soc/esp32/include/soc/reset_reasons.h \
+ /home/charkbyte/esp-idf/components/soc/esp32/include/soc/soc_caps.h \
+ /home/charkbyte/esp-idf/components/soc/include/soc/soc_caps_eval.h

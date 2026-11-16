@@ -1,0 +1,2 @@
+source /home/charkbyte/EmbeddedProjects/DaClock/build/bootloader/gdbinit/symbols
+source /home/charkbyte/EmbeddedProjects/DaClock/build/bootloader/gdbinit/connect

@@ -1,0 +1,20 @@
+esp-idf/esp_coex/CMakeFiles/__idf_esp_coex.dir/src/coexist_debug_diagram.c.obj: \
+ /home/charkbyte/esp-idf/components/esp_coex/src/coexist_debug_diagram.c \
+ /home/charkbyte/esp-idf/components/esp_coex/include/private/esp_coexist_debug.h \
+ /home/charkbyte/EmbeddedProjects/DaClock/build/config/esp/coex/gpio/debug.cdep \
+ /home/charkbyte/EmbeddedProjects/DaClock/build/config/idf/target/esp32.cdep \
+ /home/charkbyte/EmbeddedProjects/DaClock/build/config/esp/coex/gpio/debug/diag/general.cdep \
+ /home/charkbyte/EmbeddedProjects/DaClock/build/config/esp/coex/gpio/debug/diag/wifi.cdep \
+ /home/charkbyte/EmbeddedProjects/DaClock/build/config/esp/coex/gpio/debug/io/count.cdep \
+ /home/charkbyte/EmbeddedProjects/DaClock/build/config/esp/coex/gpio/debug/io/idx0.cdep \
+ /home/charkbyte/EmbeddedProjects/DaClock/build/config/esp/coex/gpio/debug/io/idx1.cdep \
+ /home/charkbyte/EmbeddedProjects/DaClock/build/config/esp/coex/gpio/debug/io/idx2.cdep \
+ /home/charkbyte/EmbeddedProjects/DaClock/build/config/esp/coex/gpio/debug/io/idx3.cdep \
+ /home/charkbyte/EmbeddedProjects/DaClock/build/config/esp/coex/gpio/debug/io/idx4.cdep \
+ /home/charkbyte/EmbeddedProjects/DaClock/build/config/esp/coex/gpio/debug/io/idx5.cdep \
+ /home/charkbyte/EmbeddedProjects/DaClock/build/config/esp/coex/gpio/debug/io/idx6.cdep \
+ /home/charkbyte/EmbeddedProjects/DaClock/build/config/esp/coex/gpio/debug/io/idx7.cdep \
+ /home/charkbyte/EmbeddedProjects/DaClock/build/config/esp/coex/gpio/debug/io/idx8.cdep \
+ /home/charkbyte/EmbeddedProjects/DaClock/build/config/esp/coex/gpio/debug/io/idx9.cdep \
+ /home/charkbyte/EmbeddedProjects/DaClock/build/config/esp/coex/gpio/debug/io/idx10.cdep \
+ /home/charkbyte/EmbeddedProjects/DaClock/build/config/esp/coex/gpio/debug/io/idx11.cdep
