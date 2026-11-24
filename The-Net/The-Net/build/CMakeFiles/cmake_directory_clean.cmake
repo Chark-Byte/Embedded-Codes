@@ -1,0 +1,17 @@
+file(REMOVE_RECURSE
+  "config/sdkconfig.h"
+  "config/sdkconfig.cmake"
+  "bootloader/bootloader.elf"
+  "bootloader/bootloader.bin"
+  "bootloader/bootloader.map"
+  "The-Net.map"
+  "project_elf_src_esp32s3.c"
+  "ldgen_libraries.in"
+  "ldgen_libraries"
+  "ldgen_fragments"
+  "The-Net.bin"
+  "flash_app_args"
+  "flash_project_args"
+  "flasher_args.json.in"
+  "flasher_args.json"
+)

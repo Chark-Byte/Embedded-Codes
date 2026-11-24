@@ -1,0 +1,5 @@
+/home/charkbyte/Embedded-Projects/The-Net/The-Net/build/bootloader/ld/bootloader.sections.ld: \
+ /home/charkbyte/esp-idf/components/bootloader/subproject/main/ld/esp32s3/bootloader.sections.ld.in \
+ /home/charkbyte/esp-idf/components/bootloader/subproject/main/ld/bootloader.sections.common.ld \
+ /home/charkbyte/Embedded-Projects/The-Net/The-Net/build/bootloader/config/sdkconfig.h \
+ /home/charkbyte/esp-idf/components/esp_system/ld/ld.elf.internal.sections

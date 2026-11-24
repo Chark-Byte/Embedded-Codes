@@ -1,0 +1,4 @@
+/home/charkbyte/Embedded-Projects/The-Net/The-Net/build/esp-idf/esp_system/ld/memory.ld: \
+ /home/charkbyte/esp-idf/components/esp_system/ld/esp32s3/memory.ld.in \
+ /home/charkbyte/Embedded-Projects/The-Net/The-Net/build/config/sdkconfig.h \
+ /home/charkbyte/esp-idf/components/esp_system/ld/ld.common

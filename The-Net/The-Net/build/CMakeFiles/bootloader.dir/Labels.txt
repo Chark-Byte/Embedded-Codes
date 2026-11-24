@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/charkbyte/Embedded-Projects/The-Net/The-Net/build/CMakeFiles/bootloader
+/home/charkbyte/Embedded-Projects/The-Net/The-Net/build/CMakeFiles/bootloader.rule
+/home/charkbyte/Embedded-Projects/The-Net/The-Net/build/CMakeFiles/bootloader-complete.rule
+/home/charkbyte/Embedded-Projects/The-Net/The-Net/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/charkbyte/Embedded-Projects/The-Net/The-Net/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/charkbyte/Embedded-Projects/The-Net/The-Net/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/charkbyte/Embedded-Projects/The-Net/The-Net/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/charkbyte/Embedded-Projects/The-Net/The-Net/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/charkbyte/Embedded-Projects/The-Net/The-Net/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/charkbyte/Embedded-Projects/The-Net/The-Net/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

@@ -1,0 +1,33 @@
+esp-idf/esp_libc/CMakeFiles/__idf_esp_libc.dir/src/timekeeping.c.obj: \
+ /home/charkbyte/esp-idf/components/esp_libc/src/timekeeping.c \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/errno.h \
+ /home/charkbyte/esp-idf/components/esp_libc/platform_include/sys/cdefs.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/sys/cdefs.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/sys/config.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/machine/ieeefp.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/sys/features.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/picolibc.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/machine/_default_types.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/stdint.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/lib/gcc/xtensa-esp-elf/16.1.0/include/stddef.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/sys/_stdint.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/sys/_intsup.h \
+ /home/charkbyte/esp-idf/components/esp_libc/platform_include/sys/errno.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/sys/errno.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/limits.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/sys/syslimits.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/lib/gcc/xtensa-esp-elf/16.1.0/include/limits.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/stdlib.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/machine/stdlib.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/alloca.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/sys/_locale.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/sys/_wait.h \
+ /home/charkbyte/esp-idf/components/esp_libc/platform_include/sys/lock.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/sys/lock.h \
+ /home/charkbyte/esp-idf/components/esp_libc/priv_include/esp_time_impl.h \
+ /home/charkbyte/esp-idf/components/esp_libc/priv_include/esp_libc_timekeeping.h \
+ /home/charkbyte/Embedded-Projects/The-Net/The-Net/build/config/esp/time/funcs/use/none.cdep \
+ /home/charkbyte/Embedded-Projects/The-Net/The-Net/build/config/libc/picolibc/newlib/compatibility.cdep \
+ /home/charkbyte/Embedded-Projects/The-Net/The-Net/build/config/libc/picolibc.cdep \
+ /home/charkbyte/Embedded-Projects/The-Net/The-Net/build/config/freertos/use/list/data/integrity/check/bytes.cdep \
+ /home/charkbyte/Embedded-Projects/The-Net/The-Net/build/config/freertos/use/trace/facility.cdep

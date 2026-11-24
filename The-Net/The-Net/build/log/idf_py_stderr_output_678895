@@ -1,0 +1,9 @@
+Command: cmake -G Unix Makefiles -B /home/charkbyte/Embedded-Projects/The-Net/The-Net/build -DPYTHON_DEPS_CHECKED=1 -DPYTHON=/home/charkbyte/.espressif/python_env/idf6.3_py3.14_env/bin/python -DESP_PLATFORM=1 -DCCACHE_ENABLE=False -DCONFIGDEP_ENABLE=True /home/charkbyte/Embedded-Projects/The-Net/The-Net
+NOTE: /home/charkbyte/esp-idf/components/bt/host/bluedroid/Kconfig.in:68: Choice symbol BT_ENC_KEY_SIZE_CTRL_STD (member of BT_ENC_KEY_SIZE_CTRL_ENABLED choice) is defined with a warning, which has no effect for choice symbols.
+NOTE: /home/charkbyte/esp-idf/components/bt/host/bluedroid/Kconfig.in:74: Choice symbol BT_ENC_KEY_SIZE_CTRL_VSC (member of BT_ENC_KEY_SIZE_CTRL_ENABLED choice) is defined with a warning, which has no effect for choice symbols.
+NOTE: /home/charkbyte/esp-idf/components/bt/host/bluedroid/Kconfig.in:81: Choice symbol BT_ENC_KEY_SIZE_CTRL_NONE (member of BT_ENC_KEY_SIZE_CTRL_ENABLED choice) is defined with a warning, which has no effect for choice symbols.
+NOTE: /home/charkbyte/esp-idf/components/bt/sdkconfig.rename.esp32s3:4: duplicate rename mapping for CONFIG_BT_NIMBLE_COEX_PHY_CODED_TX_RX_TLIM_EN: previous target CONFIG_BT_LE_COEX_PHY_CODED_TX_RX_TLIM_EN, new target CONFIG_BT_CTRL_COEX_PHY_CODED_TX_RX_TLIM_EN - last mapping is used
+NOTE: /home/charkbyte/esp-idf/components/bt/sdkconfig.rename.esp32s3:5: duplicate rename mapping for CONFIG_BT_NIMBLE_COEX_PHY_CODED_TX_RX_TLIM_DIS: previous target CONFIG_BT_LE_COEX_PHY_CODED_TX_RX_TLIM_DIS, new target CONFIG_BT_CTRL_COEX_PHY_CODED_TX_RX_TLIM_DIS - last mapping is used
+NOTE: Kconfig parser version: 1
+NOTE: Kconfig defaults policy: use sdkconfig
+NOTE: Status: Finished successfully

@@ -1,0 +1,33 @@
+esp-idf/esp_hal_rmt/CMakeFiles/__idf_esp_hal_rmt.dir/rmt_hal.c.obj: \
+ /home/charkbyte/esp-idf/components/esp_hal_rmt/rmt_hal.c \
+ /home/charkbyte/esp-idf/components/esp_hal_rmt/include/hal/rmt_hal.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/stdint.h \
+ /home/charkbyte/esp-idf/components/esp_libc/platform_include/sys/cdefs.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/sys/cdefs.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/sys/config.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/machine/ieeefp.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/sys/features.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/picolibc.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/machine/_default_types.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/lib/gcc/xtensa-esp-elf/16.1.0/include/stddef.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/sys/_stdint.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/sys/_intsup.h \
+ /home/charkbyte/esp-idf/components/esp_hal_rmt/esp32s3/include/hal/rmt_ll.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/lib/gcc/xtensa-esp-elf/16.1.0/include/stdbool.h \
+ /home/charkbyte/esp-idf/components/hal/platform_port/include/hal/misc.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/string.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/sys/_locale.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/strings.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/sys/_types.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/machine/_types.h \
+ /home/charkbyte/.espressif/tools/xtensa-esp-elf/esp-16.1.0_20260609/xtensa-esp-elf/picolibc/include/sys/string.h \
+ /home/charkbyte/esp-idf/components/hal/platform_port/include/hal/assert.h \
+ /home/charkbyte/esp-idf/components/soc/esp32s3/register/soc/rmt_struct.h \
+ /home/charkbyte/esp-idf/components/soc/esp32s3/register/soc/system_struct.h \
+ /home/charkbyte/esp-idf/components/esp_hal_rmt/include/hal/rmt_types.h \
+ /home/charkbyte/esp-idf/components/soc/esp32s3/include/soc/clk_tree_defs.h \
+ /home/charkbyte/esp-idf/components/soc/esp32s3/include/soc/soc_caps.h \
+ /home/charkbyte/esp-idf/components/soc/include/soc/soc_caps_eval.h \
+ /home/charkbyte/Embedded-Projects/The-Net/The-Net/build/config/libc/picolibc/newlib/compatibility.cdep \
+ /home/charkbyte/Embedded-Projects/The-Net/The-Net/build/config/libc/picolibc.cdep \
+ /home/charkbyte/Embedded-Projects/The-Net/The-Net/build/config/hal/default/assertion/level.cdep
